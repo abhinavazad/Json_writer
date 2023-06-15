@@ -1,0 +1,3884 @@
+[
+   {
+      "Batch_wise": [
+         {
+            "batch_id": 1,
+            "items": [
+               {
+                  "id": "76",
+                  "batch_id": "1",
+                  "vid_name": "76-Moon Safari.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "83",
+                  "batch_id": "1",
+                  "vid_name": "83-Me Gustas Tu.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "41",
+                  "batch_id": "1",
+                  "vid_name": "41-Goodbye My Lover.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "56",
+                  "batch_id": "1",
+                  "vid_name": "56-Bastard Set Of Dreams.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "63",
+                  "batch_id": "1",
+                  "vid_name": "63-Song 2.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "33",
+                  "batch_id": "1",
+                  "vid_name": "33-How To Fight Loneliness.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "39",
+                  "batch_id": "1",
+                  "vid_name": "39-Nicest Thing.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "114",
+                  "batch_id": "1",
+                  "vid_name": "114-Homage For Satan.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               }
+            ]
+         },
+         {
+            "batch_id": 2,
+            "items": [
+               {
+                  "id": "76",
+                  "batch_id": "2",
+                  "vid_name": "76-Moon Safari.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "83",
+                  "batch_id": "2",
+                  "vid_name": "83-Me Gustas Tu.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "41",
+                  "batch_id": "2",
+                  "vid_name": "41-Goodbye My Lover.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "56",
+                  "batch_id": "2",
+                  "vid_name": "56-Bastard Set Of Dreams.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "63",
+                  "batch_id": "2",
+                  "vid_name": "63-Song 2.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "33",
+                  "batch_id": "2",
+                  "vid_name": "33-How To Fight Loneliness.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "39",
+                  "batch_id": "2",
+                  "vid_name": "39-Nicest Thing.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "114",
+                  "batch_id": "2",
+                  "vid_name": "114-Homage For Satan.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               }
+            ]
+         },
+         {
+            "batch_id": 3,
+            "items": [
+               {
+                  "id": "76",
+                  "batch_id": "3",
+                  "vid_name": "76-Moon Safari.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "83",
+                  "batch_id": "3",
+                  "vid_name": "83-Me Gustas Tu.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "41",
+                  "batch_id": "3",
+                  "vid_name": "41-Goodbye My Lover.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "56",
+                  "batch_id": "3",
+                  "vid_name": "56-Bastard Set Of Dreams.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "63",
+                  "batch_id": "3",
+                  "vid_name": "63-Song 2.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "33",
+                  "batch_id": "3",
+                  "vid_name": "33-How To Fight Loneliness.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "39",
+                  "batch_id": "3",
+                  "vid_name": "39-Nicest Thing.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "114",
+                  "batch_id": "3",
+                  "vid_name": "114-Homage For Satan.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               }
+            ]
+         },
+         {
+            "batch_id": 4,
+            "items": [
+               {
+                  "id": "76",
+                  "batch_id": "4",
+                  "vid_name": "76-Moon Safari.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "83",
+                  "batch_id": "4",
+                  "vid_name": "83-Me Gustas Tu.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "41",
+                  "batch_id": "4",
+                  "vid_name": "41-Goodbye My Lover.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "56",
+                  "batch_id": "4",
+                  "vid_name": "56-Bastard Set Of Dreams.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "63",
+                  "batch_id": "4",
+                  "vid_name": "63-Song 2.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "33",
+                  "batch_id": "4",
+                  "vid_name": "33-How To Fight Loneliness.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "39",
+                  "batch_id": "4",
+                  "vid_name": "39-Nicest Thing.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "114",
+                  "batch_id": "4",
+                  "vid_name": "114-Homage For Satan.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               }
+            ]
+         },
+         {
+            "batch_id": 5,
+            "items": [
+               {
+                  "id": "76",
+                  "batch_id": "5",
+                  "vid_name": "76-Moon Safari.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "83",
+                  "batch_id": "5",
+                  "vid_name": "83-Me Gustas Tu.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "41",
+                  "batch_id": "5",
+                  "vid_name": "41-Goodbye My Lover.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "56",
+                  "batch_id": "5",
+                  "vid_name": "56-Bastard Set Of Dreams.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "63",
+                  "batch_id": "5",
+                  "vid_name": "63-Song 2.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "33",
+                  "batch_id": "5",
+                  "vid_name": "33-How To Fight Loneliness.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "39",
+                  "batch_id": "5",
+                  "vid_name": "39-Nicest Thing.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "114",
+                  "batch_id": "5",
+                  "vid_name": "114-Homage For Satan.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               }
+            ]
+         },
+         {
+            "batch_id": 6,
+            "items": [
+               {
+                  "id": "76",
+                  "batch_id": "6",
+                  "vid_name": "76-Moon Safari.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "83",
+                  "batch_id": "6",
+                  "vid_name": "83-Me Gustas Tu.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "41",
+                  "batch_id": "6",
+                  "vid_name": "41-Goodbye My Lover.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "56",
+                  "batch_id": "6",
+                  "vid_name": "56-Bastard Set Of Dreams.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "63",
+                  "batch_id": "6",
+                  "vid_name": "63-Song 2.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "33",
+                  "batch_id": "6",
+                  "vid_name": "33-How To Fight Loneliness.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "39",
+                  "batch_id": "6",
+                  "vid_name": "39-Nicest Thing.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "114",
+                  "batch_id": "6",
+                  "vid_name": "114-Homage For Satan.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               }
+            ]
+         },
+         {
+            "batch_id": 7,
+            "items": [
+               {
+                  "id": "76",
+                  "batch_id": "7",
+                  "vid_name": "76-Moon Safari.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "83",
+                  "batch_id": "7",
+                  "vid_name": "83-Me Gustas Tu.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "41",
+                  "batch_id": "7",
+                  "vid_name": "41-Goodbye My Lover.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "56",
+                  "batch_id": "7",
+                  "vid_name": "56-Bastard Set Of Dreams.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "63",
+                  "batch_id": "7",
+                  "vid_name": "63-Song 2.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "33",
+                  "batch_id": "7",
+                  "vid_name": "33-How To Fight Loneliness.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "39",
+                  "batch_id": "7",
+                  "vid_name": "39-Nicest Thing.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "114",
+                  "batch_id": "7",
+                  "vid_name": "114-Homage For Satan.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               }
+            ]
+         },
+         {
+            "batch_id": 8,
+            "items": [
+               {
+                  "id": "76",
+                  "batch_id": "8",
+                  "vid_name": "76-Moon Safari.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "83",
+                  "batch_id": "8",
+                  "vid_name": "83-Me Gustas Tu.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "41",
+                  "batch_id": "8",
+                  "vid_name": "41-Goodbye My Lover.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "56",
+                  "batch_id": "8",
+                  "vid_name": "56-Bastard Set Of Dreams.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "63",
+                  "batch_id": "8",
+                  "vid_name": "63-Song 2.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "33",
+                  "batch_id": "8",
+                  "vid_name": "33-How To Fight Loneliness.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "39",
+                  "batch_id": "8",
+                  "vid_name": "39-Nicest Thing.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "114",
+                  "batch_id": "8",
+                  "vid_name": "114-Homage For Satan.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               }
+            ]
+         },
+         {
+            "batch_id": 9,
+            "items": [
+               {
+                  "id": "76",
+                  "batch_id": "9",
+                  "vid_name": "76-Moon Safari.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "83",
+                  "batch_id": "9",
+                  "vid_name": "83-Me Gustas Tu.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "41",
+                  "batch_id": "9",
+                  "vid_name": "41-Goodbye My Lover.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "56",
+                  "batch_id": "9",
+                  "vid_name": "56-Bastard Set Of Dreams.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "63",
+                  "batch_id": "9",
+                  "vid_name": "63-Song 2.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "33",
+                  "batch_id": "9",
+                  "vid_name": "33-How To Fight Loneliness.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "39",
+                  "batch_id": "9",
+                  "vid_name": "39-Nicest Thing.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "114",
+                  "batch_id": "9",
+                  "vid_name": "114-Homage For Satan.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               }
+            ]
+         },
+         {
+            "batch_id": 10,
+            "items": [
+               {
+                  "id": "76",
+                  "batch_id": "10",
+                  "vid_name": "76-Moon Safari.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "83",
+                  "batch_id": "10",
+                  "vid_name": "83-Me Gustas Tu.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "41",
+                  "batch_id": "10",
+                  "vid_name": "41-Goodbye My Lover.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "56",
+                  "batch_id": "10",
+                  "vid_name": "56-Bastard Set Of Dreams.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "63",
+                  "batch_id": "10",
+                  "vid_name": "63-Song 2.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "33",
+                  "batch_id": "10",
+                  "vid_name": "33-How To Fight Loneliness.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "39",
+                  "batch_id": "10",
+                  "vid_name": "39-Nicest Thing.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "114",
+                  "batch_id": "10",
+                  "vid_name": "114-Homage For Satan.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               }
+            ]
+         },
+         {
+            "batch_id": 11,
+            "items": [
+               {
+                  "id": "76",
+                  "batch_id": "11",
+                  "vid_name": "76-Moon Safari.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "83",
+                  "batch_id": "11",
+                  "vid_name": "83-Me Gustas Tu.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "41",
+                  "batch_id": "11",
+                  "vid_name": "41-Goodbye My Lover.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "56",
+                  "batch_id": "11",
+                  "vid_name": "56-Bastard Set Of Dreams.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "63",
+                  "batch_id": "11",
+                  "vid_name": "63-Song 2.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "33",
+                  "batch_id": "11",
+                  "vid_name": "33-How To Fight Loneliness.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "39",
+                  "batch_id": "11",
+                  "vid_name": "39-Nicest Thing.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "114",
+                  "batch_id": "11",
+                  "vid_name": "114-Homage For Satan.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               }
+            ]
+         },
+         {
+            "batch_id": 12,
+            "items": [
+               {
+                  "id": "76",
+                  "batch_id": "12",
+                  "vid_name": "76-Moon Safari.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "83",
+                  "batch_id": "12",
+                  "vid_name": "83-Me Gustas Tu.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "41",
+                  "batch_id": "12",
+                  "vid_name": "41-Goodbye My Lover.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "56",
+                  "batch_id": "12",
+                  "vid_name": "56-Bastard Set Of Dreams.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "63",
+                  "batch_id": "12",
+                  "vid_name": "63-Song 2.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "33",
+                  "batch_id": "12",
+                  "vid_name": "33-How To Fight Loneliness.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "39",
+                  "batch_id": "12",
+                  "vid_name": "39-Nicest Thing.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "114",
+                  "batch_id": "12",
+                  "vid_name": "114-Homage For Satan.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               }
+            ]
+         },
+         {
+            "batch_id": 13,
+            "items": [
+               {
+                  "id": "76",
+                  "batch_id": "13",
+                  "vid_name": "76-Moon Safari.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "83",
+                  "batch_id": "13",
+                  "vid_name": "83-Me Gustas Tu.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "41",
+                  "batch_id": "13",
+                  "vid_name": "41-Goodbye My Lover.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "56",
+                  "batch_id": "13",
+                  "vid_name": "56-Bastard Set Of Dreams.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "63",
+                  "batch_id": "13",
+                  "vid_name": "63-Song 2.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "33",
+                  "batch_id": "13",
+                  "vid_name": "33-How To Fight Loneliness.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "39",
+                  "batch_id": "13",
+                  "vid_name": "39-Nicest Thing.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "114",
+                  "batch_id": "13",
+                  "vid_name": "114-Homage For Satan.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               }
+            ]
+         },
+         {
+            "batch_id": 14,
+            "items": [
+               {
+                  "id": "76",
+                  "batch_id": "14",
+                  "vid_name": "76-Moon Safari.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "83",
+                  "batch_id": "14",
+                  "vid_name": "83-Me Gustas Tu.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "41",
+                  "batch_id": "14",
+                  "vid_name": "41-Goodbye My Lover.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "56",
+                  "batch_id": "14",
+                  "vid_name": "56-Bastard Set Of Dreams.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "63",
+                  "batch_id": "14",
+                  "vid_name": "63-Song 2.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "33",
+                  "batch_id": "14",
+                  "vid_name": "33-How To Fight Loneliness.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "39",
+                  "batch_id": "14",
+                  "vid_name": "39-Nicest Thing.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               },
+               {
+                  "id": "114",
+                  "batch_id": "14",
+                  "vid_name": "114-Homage For Satan.mp4",
+                  "Val_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "Aro_scale_range": [
+                     1,
+                     2,
+                     3,
+                     4,
+                     5,
+                     6,
+                     7,
+                     8,
+                     9
+                  ],
+                  "textValence": [
+                     "Please rate the valence"
+                  ],
+                  "textArousal": [
+                     "Please rate the arousal"
+                  ],
+                  "trigger": "false"
+               }
+            ]
+         }
+      ]
+   }
+]
